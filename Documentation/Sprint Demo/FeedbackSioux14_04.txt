@@ -1,0 +1,6 @@
+State machines:
+make the messages exactly as you are going to send them (communication protocol)
+
+Class diagram:
+the messages received are currently not handled in the design
+Change the growbox so the growbox class in the main handler and plantStatus just saves the data
